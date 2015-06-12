@@ -1,0 +1,22 @@
+{
+  "name": "openvox-sms-app",
+  "version": "0.0.1",
+  "description": "Demo app for Openvox-sms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/openvox-sms-app.git"
+  },
+  "author": "Sergey Dmitriev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antirek/openvox-sms-app/issues"
+  },
+  "homepage": "https://github.com/antirek/openvox-sms-app",
+  "dependencies": {
+    "openvox-sms": "0.0.9"
+  }
+}
